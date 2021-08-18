@@ -1,0 +1,33 @@
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaNegocio\obj\Debug\CapaNegocio.pdb

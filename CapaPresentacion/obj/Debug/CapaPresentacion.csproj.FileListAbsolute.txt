@@ -1,0 +1,65 @@
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Sistema_Autobuses.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Administrar_Choferes.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Administrar_Autobus.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Administrar_Ruta.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Administrar_Viajes.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Administrar_Autobus.resources
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Administrar_Choferes.resources
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Administrar_Ruta.resources
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Administrar_Viajes.resources
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Sistema_Autobuses.resources
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Legnar Acv2\Desktop\Programacion\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Administrar_Autobus.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Administrar_Choferes.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Administrar_Ruta.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Administrar_Viajes.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.Sistema_Autobuses.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\HELPCOMPUTER\Documents\Programación II\Segundo Parcial (Sistema Control Autobuses)\SISTEMA_AUTOBUSES\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
