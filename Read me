@@ -1,9 +1,10 @@
 # SistemaAutobuses_Kimy
 Este sistema permite registrar choferes, autobuses y rutas.
 
-##Imagenes de la Aplicación
+## Imagenes de la Aplicación
 
 1. Pagina de Inicio
+<img width="463" alt="Inicio" src="https://user-images.githubusercontent.com/88993892/130173275-a8abf98b-ea83-4291-ba5c-d8f8308c0d39.PNG">
 
 2. Administrar Choferes
 Permite agregar nuevos choferes con su nombre, apellido, fecha de nacimiento y cedula, editar datos de los choferes ya registrados y eliminar.
