@@ -1,11 +1,6 @@
 # SistemaAutobuses_Kimy
 Aplicación que permite registrar choferes, autobuses y rutas.
 
-# Vídeo Explicativo 
-
-## Parte 1
-https://youtu.be/OIFhIUPaylI
-
 ## 1. Página de Inicio
 <img width="463" alt="Inicio" src="https://user-images.githubusercontent.com/88993892/130173275-a8abf98b-ea83-4291-ba5c-d8f8308c0d39.PNG">
 
