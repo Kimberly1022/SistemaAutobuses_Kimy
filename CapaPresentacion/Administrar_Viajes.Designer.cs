@@ -44,20 +44,20 @@ namespace CapaPresentacion
             this.btn_Guardar = new Bunifu.Framework.UI.BunifuFlatButton();
             this.btn_Eliminar = new Bunifu.Framework.UI.BunifuFlatButton();
             this.btn_Editar = new Bunifu.Framework.UI.BunifuFlatButton();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.label2 = new System.Windows.Forms.Label();
             this.MoverFormulario = new Bunifu.Framework.UI.BunifuDragControl(this.components);
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.TopFormulario.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btn_Cerrar)).BeginInit();
             this.Formulario.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // TopFormulario
@@ -171,7 +171,7 @@ namespace CapaPresentacion
             this.btn_Reset.IconVisible = true;
             this.btn_Reset.IconZoom = 60D;
             this.btn_Reset.IsTab = false;
-            this.btn_Reset.Location = new System.Drawing.Point(18, 168);
+            this.btn_Reset.Location = new System.Drawing.Point(20, 168);
             this.btn_Reset.Margin = new System.Windows.Forms.Padding(11, 12, 11, 12);
             this.btn_Reset.Name = "btn_Reset";
             this.btn_Reset.Normalcolor = System.Drawing.SystemColors.MenuHighlight;
@@ -180,7 +180,7 @@ namespace CapaPresentacion
             this.btn_Reset.Padding = new System.Windows.Forms.Padding(6);
             this.btn_Reset.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.btn_Reset.selected = false;
-            this.btn_Reset.Size = new System.Drawing.Size(184, 66);
+            this.btn_Reset.Size = new System.Drawing.Size(190, 66);
             this.btn_Reset.TabIndex = 68;
             this.btn_Reset.Text = "RESET";
             this.btn_Reset.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -318,6 +318,39 @@ namespace CapaPresentacion
             this.btn_Editar.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Editar.Click += new System.EventHandler(this.btn_Editar_Click);
             // 
+            // textBox1
+            // 
+            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox1.Location = new System.Drawing.Point(37, 72);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox1.Multiline = true;
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(247, 40);
+            this.textBox1.TabIndex = 28;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.BackColor = System.Drawing.Color.White;
+            this.pictureBox2.Image = global::CapaPresentacion.Properties.Resources.Buscar;
+            this.pictureBox2.Location = new System.Drawing.Point(290, 72);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(76, 40);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 27;
+            this.pictureBox2.TabStop = false;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::CapaPresentacion.Properties.Resources.TEXTBUSCAR;
+            this.pictureBox1.Location = new System.Drawing.Point(26, 58);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(356, 68);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 26;
+            this.pictureBox1.TabStop = false;
+            // 
             // label4
             // 
             this.label4.AutoSize = true;
@@ -367,39 +400,6 @@ namespace CapaPresentacion
             this.MoverFormulario.TargetControl = this.TopFormulario;
             this.MoverFormulario.Vertical = true;
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::CapaPresentacion.Properties.Resources.TEXTBUSCAR;
-            this.pictureBox1.Location = new System.Drawing.Point(26, 58);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(356, 68);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 26;
-            this.pictureBox1.TabStop = false;
-            // 
-            // textBox1
-            // 
-            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.Location = new System.Drawing.Point(37, 72);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(247, 40);
-            this.textBox1.TabIndex = 28;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.BackColor = System.Drawing.Color.White;
-            this.pictureBox2.Image = global::CapaPresentacion.Properties.Resources.Buscar;
-            this.pictureBox2.Location = new System.Drawing.Point(290, 72);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(76, 40);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 27;
-            this.pictureBox2.TabStop = false;
-            // 
             // Administrar_Viajes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -420,9 +420,9 @@ namespace CapaPresentacion
             ((System.ComponentModel.ISupportInitialize)(this.btn_Cerrar)).EndInit();
             this.Formulario.ResumeLayout(false);
             this.Formulario.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 
         }

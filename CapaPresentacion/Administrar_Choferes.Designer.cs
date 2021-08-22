@@ -35,6 +35,7 @@ namespace CapaPresentacion
             this.btn_Cerrar = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.dateFecha = new System.Windows.Forms.DateTimePicker();
             this.btn_Reset = new Bunifu.Framework.UI.BunifuFlatButton();
             this.txt_ID = new System.Windows.Forms.TextBox();
             this.pictureBox8 = new System.Windows.Forms.PictureBox();
@@ -58,7 +59,6 @@ namespace CapaPresentacion
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.MoverFormulario = new Bunifu.Framework.UI.BunifuDragControl(this.components);
-            this.dateFecha = new System.Windows.Forms.DateTimePicker();
             this.TopFormulario.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btn_Cerrar)).BeginInit();
             this.panel2.SuspendLayout();
@@ -141,6 +141,14 @@ namespace CapaPresentacion
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(1212, 570);
             this.panel2.TabIndex = 1;
+            // 
+            // dateFecha
+            // 
+            this.dateFecha.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dateFecha.Location = new System.Drawing.Point(932, 419);
+            this.dateFecha.Name = "dateFecha";
+            this.dateFecha.Size = new System.Drawing.Size(235, 26);
+            this.dateFecha.TabIndex = 49;
             // 
             // btn_Reset
             // 
@@ -482,14 +490,6 @@ namespace CapaPresentacion
             this.MoverFormulario.Horizontal = true;
             this.MoverFormulario.TargetControl = this.TopFormulario;
             this.MoverFormulario.Vertical = true;
-            // 
-            // dateFecha
-            // 
-            this.dateFecha.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dateFecha.Location = new System.Drawing.Point(932, 419);
-            this.dateFecha.Name = "dateFecha";
-            this.dateFecha.Size = new System.Drawing.Size(235, 26);
-            this.dateFecha.TabIndex = 49;
             // 
             // Administrar_Choferes
             // 
