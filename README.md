@@ -8,7 +8,7 @@ https://youtu.be/OIFhIUPaylI
 ## Parte 2
 https://youtu.be/4Pp5olBCyz0
 
-# Imagénes de la Aplicacion
+# Imagénes de la Aplicación
 
 1. Página de Inicio
 <img width="463" alt="Inicio" src="https://user-images.githubusercontent.com/88993892/130173275-a8abf98b-ea83-4291-ba5c-d8f8308c0d39.PNG">
